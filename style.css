@@ -1,0 +1,28 @@
+
+body{
+  background-color: #e2c90d;
+}
+h1{
+  color: #a52a2a;
+}
+body div{
+  background-color: #00ffff;
+  margin: 250px;
+}
+input{
+  background-color:#ffffff;
+  color:#0c0101;
+}
+input:hover{
+  background-color: #000000;
+  color: aliceblue;
+  transition:1s;
+}
+input:focus{
+  background-color: #0e020efd;
+}
+input::placeholder{
+  background-color: #dc2be2;
+  color: #f0f8ff;
+}
+
